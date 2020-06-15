@@ -95,7 +95,7 @@ class Main extends React.Component {
           style={{ display: "none" }}
         >
           <h2 className="major">Contact</h2>
-          <p style={{ fontSize: 30 }}>Email: rapha35om@gmail.com</p>
+          <p style={{ fontSize: 30 }}>Email: rapha35om.rm@gmail.com</p>
           <p style={{ fontSize: 30 }}>Celular: 11971400089</p>
           <ul className="icons">
             <li>
