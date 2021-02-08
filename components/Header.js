@@ -57,7 +57,7 @@ var AppStyle = {
   divStyle: {
     display: "flex",
     width: 230,
-    marginLeft: 10rem
+    marginLeft: 30%
   },
   // , here you can add lots of another styles for your component
 };
