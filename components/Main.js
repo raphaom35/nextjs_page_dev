@@ -33,13 +33,13 @@ class Main extends React.Component {
             <img src="/static/images/pic02.jpg" alt="" />
           </span>
           <p>
-            Sou um jovem muito entusiasmado um novas teconologia e novas coisa
-            para aprender na area da tecnologia
+            I am a young man very enthusiastic about new technology and 
+            new things to learn in the field of technology
           </p>
           <ul>
-            <li>Atencioso</li>
-            <li>Gosto de aprender</li>
-            <li>Gosto de resolver problemas</li>
+            <li>Attentive</li>
+            <li>I like to learn</li>
+            <li>I like to solve problems</li>
           </ul>
 
           {close}
@@ -52,14 +52,14 @@ class Main extends React.Component {
           }`}
           style={{ display: "none" }}
         >
-          <h2 className="major">Serviço</h2>
+          <h2 className="major">Service</h2>
 
           <span className="image main">
             <img src="/static/images/pic01.jpg" alt="" />
           </span>
           <p>
-            Deselvolvedor de aplicaçoes android e ios e desktop e web&nbsp;
-            <a href="https://github.com/raphaom35">Alguns trabalhos</a>.
+            Android and ios and desktop application developer and web&nbsp;
+            <a href="https://github.com/raphaom35">Some works</a>.
           </p>
           {close}
         </article>
